@@ -1,6 +1,7 @@
 # File Upload and Short Link Generator
 
 Welcome! This project is a clone of the  **FarMart** official website, adapted for educational and practice purposes.
+<br>
 Visit: [https://nikhilkumar99k.github.io/File_Upload/#](https://nikhilkumar99k.github.io/File_Upload/#)
 
 ## Overview
@@ -29,7 +30,7 @@ The project follows a standard structure for a Node.js and Express application:
 [https://nikhilkumar99k.github.io/File_Upload/#](https://nikhilkumar99k.github.io/File_Upload/#)
 
 
-## Spot the Difference Challenge
+## ![Spot the Difference](https://media.giphy.com/media/tYx4HxqTOae2dOWhUi/giphy.gif)
 
 🕵️‍♂️ Can you spot the differences between this project and the original FarMart website? I bet you cannot find any!
 
