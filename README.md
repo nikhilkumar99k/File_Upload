@@ -34,7 +34,7 @@ The project follows a standard structure for a Node.js and Express application:
 
 🕵️‍♂️ Can you spot the differences between this project and the original FarMart website? I bet you cannot find any!
 
-<img src="https://github.com/nikhilkumar99k/File_Upload/assets/91065041/1c989c91-6ef4-4221-b953-2e7c3c45f892" width="600" style="display:inline-block">
-<img src="https://github.com/nikhilkumar99k/File_Upload/assets/91065041/9bbfbd4b-d263-41a1-8e1f-1b4ef0467b25" width="600" style="display:inline-block">
+<img src="https://github.com/nikhilkumar99k/File_Upload/assets/91065041/1c989c91-6ef4-4221-b953-2e7c3c45f892" width="500" style="display:inline-block">
+<img src="https://github.com/nikhilkumar99k/File_Upload/assets/91065041/9bbfbd4b-d263-41a1-8e1f-1b4ef0467b25" width="500" style="display:inline-block">
 
 Happy hunting! 🧐
