@@ -1,5 +1,8 @@
 # File Upload and Short Link Generator
 
+Welcome! This project is a clone of the  **FarMart** official website, adapted for educational and practice purposes.
+Visit: [https://nikhilkumar99k.github.io/File_Upload/#](https://nikhilkumar99k.github.io/File_Upload/#)
+
 ## Overview
 
 This project is a web application that allows users to upload files and generate short links for easy sharing. The application is built using HTML, CSS, JavaScript, Node.js, Express, EJS, and Body Parser. The goal is to provide a user-friendly interface for file uploads and link generation, inspired by the Farm Art official website.
@@ -25,3 +28,15 @@ The project follows a standard structure for a Node.js and Express application:
 
 [https://nikhilkumar99k.github.io/File_Upload/#](https://nikhilkumar99k.github.io/File_Upload/#)
 
+
+## Spot the Difference Challenge
+
+🕵️‍♂️ Can you spot the differences between this project and the original FarMart website? I bet you cannot find any!
+
+**Screenshot 1**
+![image](https://github.com/nikhilkumar99k/File_Upload/assets/91065041/1c989c91-6ef4-4221-b953-2e7c3c45f892)
+
+**Screenshot 1**
+![image](https://github.com/nikhilkumar99k/File_Upload/assets/91065041/9bbfbd4b-d263-41a1-8e1f-1b4ef0467b25)
+
+Happy hunting! 🧐
